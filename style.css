@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: skyblue;
   text-align: center;
   color: navy;
   margin: auto;
@@ -13,10 +13,11 @@ body {
 
 h1{
   font-size: 30px;
+  color: white;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/038/000/159/small_2x/ai-generated-sunlight-shining-the-surface-and-under-the-blue-ocean-sea-wave-with-clean-waters-in-summer-time-photo.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
